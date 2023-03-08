@@ -24,3 +24,7 @@
 23. Table Normalization (n.) 資料表正規化
 24. Data Definition Language (DDL) (n.) 資料定義語言
 25. Boyce-Codd Normalization Form (BCNF) 
+26. Physical Schema (n.) 實體綱要
+27. Client-Server structure (n.) 主從式架構
+28. 3-Tier structure (n.) 三層式架構
+29. Distributed structure (n.) 分散式架構
