@@ -24,5 +24,7 @@ A DBMS must have 4 operations.
         
         3) Reference Integrity (RI):
 
+More example at the figures.
 
+        https://github.com/40843245/Database/tree/main/Database/DBMS
  
