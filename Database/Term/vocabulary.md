@@ -20,3 +20,6 @@
 19. Many-to-Many (adj.) 多對多
 20. Primary Key (n.) 主鍵
 21. Foriegn Key (n.) 外來鍵
+22. Entity-Relationship Diagram model (ERD model) (n.) 實體關聯圖
+23. Table Normalization (n.) 資料表正規化
+24. Data Definition Language (DDL) (n.) 資料定義語言
