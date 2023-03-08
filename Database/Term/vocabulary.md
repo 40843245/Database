@@ -15,4 +15,8 @@
 14. Multi-Relationship (n.) 多項關係 (只資料的關係很複雜)
 15. Backup (n.) 備份
 16. Integrity Constraint (IC) (n.) 完整性限制
-17. 
+17. One-to-One (adj.) 一對一
+18. One-to-Many (adj.) 一對多
+19. Many-to-Many (adj.) 多對多
+20. Primary Key (n.) 主鍵
+21. Foriegn Key (n.) 外來鍵
