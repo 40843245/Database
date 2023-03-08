@@ -24,6 +24,10 @@ A DBMS must have 4 operations.
         
         3) Reference Integrity (RI):
 
+                A referential integrity constraint is specified between two tables.
+                In the Referential integrity constraints, if a foreign key in Table 1 refers to the Primary Key of Table 2, 
+                then every value of the Foreign Key in Table 1 must be null or be available in Table 2.
+
 More example at the figures.
 
         https://github.com/40843245/Database/tree/main/Database/DBMS
