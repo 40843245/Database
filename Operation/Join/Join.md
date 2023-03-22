@@ -18,6 +18,11 @@ A right join B refers the difference between B itself and the intersection of A 
 It is equivalent to B left join A.
 
 ## Summary
+https://github.com/40843245/Database/blob/main/Operation/Join/JOIN_mysql.png
+
+## Ref
+https://www.w3schools.com/mysql/mysql_join.asp
+
 
 
 
